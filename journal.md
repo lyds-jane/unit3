@@ -24,9 +24,13 @@ while switch != 0:
 
 ### What I learned
 * Basic python syntax, including:
+
 &rightarrow; Arrays
+
 &rightarrow; Loops
+
 &rightarrow; Variable declaration
+
 &rightarrow; Built-in functions like .capitalize
 
 ### Questions I have
