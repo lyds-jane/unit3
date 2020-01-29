@@ -39,11 +39,11 @@ while switch != 0:
 ### Other
 I experimented with Python to make a random compliment generator. This taught me about the random function, as well as more uses for arrays. 
 ```
-
-
 name = input('Your name is: ')
 
-compliments = ['gorgeous', 'smart', 'funny', 'kind', 'loved', 'powerful', 'amazing', 'cute', 'generous', 'beautiful', 'nice', 'gentle', 'appreciated', 'stunning', 'cool', 'impressive', 'inspiring', 'intellegent', 'loving', 'talented', 'valued', 'appreciated', 'adorable', 'sweet', 'friendly', 'energetic', 'charasmatic', 'hardworking']
+starter = ['I hope you know', 'people notice', 'I want you to know', 'no one can ignore', "don't forget", "remember", "I hope you realize", 'everyone thinks about', "don't underestimate", "I really appreciate", "damn, just look at", "think about", "you don't give yourself enough credit for", "you need to remember", "I can't even describe", "think about how so so so so", 'even Obama knows']
+
+compliments = ['gorgeous', 'smart', 'funny', 'kind', 'loved', 'powerful', 'amazing', 'cute', 'generous', 'beautiful', 'nice', 'appreciated', 'stunning', 'cool', 'impressive', 'inspiring', 'intellegent', 'loving', 'talented', 'valued', 'appreciated', 'adorable', 'sweet', 'friendly', 'energetic', 'charasmatic', 'hardworking']
 
 seed = len(compliments) / 2
 
@@ -51,13 +51,16 @@ import random
 random.seed(seed)
 
 
-print("Hello", name, "it's nice to meet you")
+print("\nHello {}, it's nice to meet you!".format(name))
 
-num = int(input("How many random compliments would you like? "))
-print("")
+num = int(input("\nHow many random compliments would you like? "))
 
 for i in range(0,num):
-  element = random.randit(0, seed)
-  print('{}, you are so {}'.format(name, compliments.pop(element)))
-  print("")
+  if num < len(compliments):
+    element = random.randint(0, seed)
+    comp = compliments.pop(element)
+  else:
+    comp = random.choice(compliments)
+  print('{}, {} how {} you are\n'.format(name, random.choice(starter), comp))
+
 ```
