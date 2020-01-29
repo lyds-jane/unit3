@@ -35,3 +35,29 @@ while switch != 0:
 
 ### Questions I have
 * What are we going to do with python?
+
+### Other
+I experimented with Python to make a random compliment generator. This taught me about the random function, as well as more uses for arrays. 
+```
+
+
+name = input('Your name is: ')
+
+compliments = ['gorgeous', 'smart', 'funny', 'kind', 'loved', 'powerful', 'amazing', 'cute', 'generous', 'beautiful', 'nice', 'gentle', 'appreciated', 'stunning', 'cool', 'impressive', 'inspiring', 'intellegent', 'loving', 'talented', 'valued', 'appreciated', 'adorable', 'sweet', 'friendly', 'energetic', 'charasmatic', 'hardworking']
+
+seed = len(compliments) / 2
+
+import random
+random.seed(seed)
+
+
+print("Hello", name, "it's nice to meet you")
+
+num = int(input("How many random compliments would you like? "))
+print("")
+
+for i in range(0,num):
+  element = random.randit(0, seed)
+  print('{}, you are so {}'.format(name, compliments.pop(element)))
+  print("")
+```
