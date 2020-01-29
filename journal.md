@@ -24,10 +24,10 @@ while switch != 0:
 
 ### What I learned
 * Basic python syntax, including:
-&rightarrow Arrays
-&rightarrow Loops
-&rightarrow Variable declaration
-&rightarrow Built-in functions like .capitalize
+&rightarrow; Arrays
+&rightarrow; Loops
+&rightarrow; Variable declaration
+&rightarrow; Built-in functions like .capitalize
 
 ### Questions I have
 * What are we going to do with python?
