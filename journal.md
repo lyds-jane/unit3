@@ -34,7 +34,7 @@ while switch != 0:
 &rightarrow; Built-in functions like .capitalize
 
 ### Questions I have
-* What are we going to do with python?
+* How can you create a user interface to use and share code outside of online editors?
 
 ### Other
 I experimented with Python to make a random compliment generator. This taught me about the random function, as well as more uses for arrays. 
