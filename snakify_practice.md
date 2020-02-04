@@ -2,7 +2,7 @@ Input, print and numbers
 ---
 
 ### "Sum of three numbers
-```.python
+```.py
 # This program reads three numbers and prints their sum:
 a = int(input()) # Gets an input
 b = int(input())
@@ -11,14 +11,14 @@ print(a + b + c) # Prints the sum of the inputs
 ```
 
 ### "Square"
-```.python
+```.py
 #Read an integer:
 a = int(input()) # Gets an input
 print(a**) # Prints the square of the input
 ```
 
 ### "Apple Sharing"
-```.python
+```.py
 # This program determines how many apples (out of K) N students get, and how many are leftover
 n = int(input())
 k = int(input())
@@ -26,7 +26,7 @@ print("Each of the {} students will get {} apples. There will be {} left over.".
 ```
 
 ### "Previous and Next"
-```.python
+```.py
 # This program reads an integer number and prints its previous and next numbers
 
 a = int(input())
@@ -35,7 +35,7 @@ print("The previous number for the number {} is {}.".format(a, a-1))
 ```
 
 ### "Two Timestamps"
-```.python
+```.py
 #Given two timestamps, this program calculates how many seconds is between them
 
 hour1 = int(input())
@@ -53,7 +53,7 @@ Integer and float numbers
 ---
 
 ### "Last Digit of Integer"
-```.python
+```.py
 # This program prints the last digit of an integer 
 
 num = int(input())
@@ -61,14 +61,14 @@ print (num%10)
 ```
 
 ### "Tens Digit"
-```.python
+```.py
 # This program prints a number's ten digit
 num = int(input())
 print(num%100//10)
 ```
 
 ### "Car Route"
-```.python
+```.py
 # If a car can cover N km a day, this calculates how long it will take that car to travel M km
 from math import ceil
 
@@ -81,7 +81,7 @@ print(y)
 ```
 
 ### "Digital Clock"
-```.python
+```.py
 # Given the minutes since midnight, this program prints the current time
 
 min = int(input())
@@ -107,7 +107,7 @@ else:
 ```
 
 ### "Sign Function"
-```.python
+```.py
 # This program detects the sign of an integer
 num = int(input())
 if num < 0:
@@ -119,7 +119,7 @@ else:
 ```
 
 ### "Rook Move"
-```.python
+```.py
 num1 = int(input())
 num2 = int(input())
 num3 = int(input())
@@ -132,7 +132,7 @@ else:
  ```
  
  ### "Chocolate Bar"
- ```.python
+```.py
  # This program determines if a chocolate bar with the dimensions n,m can be split along a line so that one part has k squares
 n = int(input())
 m = int(input())
@@ -161,7 +161,7 @@ print(total)
 ```
 
 ### "Number of Zeros"
-```.python
+```.py
 n = int(input())
 counter = 0
 
@@ -173,7 +173,7 @@ print(counter)
 ```
 
 ### "Lost Card"
-```.python
+```.py
 n = int(input())
 total = 0
 missing_total = 0
