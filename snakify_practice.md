@@ -148,7 +148,7 @@ else:
  --
  
  ### "Sum of N Numbers"
- ```.python
+ ```.py
  # This program adds n nubmer of inputs
 
 n = int(input())
