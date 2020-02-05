@@ -36,31 +36,23 @@ while switch != 0:
 ### Questions I have
 * How can you create a user interface to use and share code outside of online editors?
 
-### Other
-I experimented with Python to make a random compliment generator. This taught me about the random function, as well as more uses for arrays. 
+
+05/02/20
+---
+
+### What I did
+* Learned about CTS
+* Chose Inventory client & developper:
+  * I am developing Alex's app
+  * Hassan is developing my app
+* Biggest prime factor code
+
+### What I learned
+* How to create/add values to lists:
+```.py
+values.append(int(input("Enter a number: ")))
 ```
-name = input('Your name is: ')
+* How to return values in a function
 
-starter = ['I hope you know', 'people notice', 'I want you to know', 'no one can ignore', "don't forget", "remember", "I hope you realize", 'everyone thinks about', "don't underestimate", "I really appreciate", "damn, just look at", "think about", "you don't give yourself enough credit for", "you need to remember", "I can't even describe", "think about how so so so so", 'even Obama knows']
-
-compliments = ['gorgeous', 'smart', 'funny', 'kind', 'loved', 'powerful', 'amazing', 'cute', 'generous', 'beautiful', 'nice', 'appreciated', 'stunning', 'cool', 'impressive', 'inspiring', 'intellegent', 'loving', 'talented', 'valued', 'appreciated', 'adorable', 'sweet', 'friendly', 'energetic', 'charasmatic', 'hardworking']
-
-seed = len(compliments) / 2
-
-import random
-random.seed(seed)
-
-
-print("\nHello {}, it's nice to meet you!".format(name))
-
-num = int(input("\nHow many random compliments would you like? "))
-
-for i in range(0,num):
-  if num < len(compliments):
-    element = random.randint(0, seed)
-    comp = compliments.pop(element)
-  else:
-    comp = random.choice(compliments)
-  print('{}, {} how {} you are\n'.format(name, random.choice(starter), comp))
-
-```
+### Questions I have
+* How will the client/developper relationship work?
