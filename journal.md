@@ -56,3 +56,17 @@ values.append(int(input("Enter a number: ")))
 
 ### Questions I have
 * How will the client/developper relationship work?
+
+
+12/02/2020
+--
+
+### What I did
+* Created the Record of Actions for the Unit 3 project
+* Had my client / developper interview
+
+### What I learned
+* Learned how to create a secure login
+
+### Questions I have
+* How exactly does the hash key system work?
