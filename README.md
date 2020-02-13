@@ -27,9 +27,9 @@ Success Criteria:
     * Expiration date
     * Calories per 100g
     * Taste category
-    * Sweet
-    * Sour
-    * Salt
+      * Sweet
+      * Sour
+      * Salt
     * Quantity (number of packages)
 4. An item can be registered as "eaten"
 5. An item can be edited
