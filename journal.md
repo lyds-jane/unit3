@@ -70,3 +70,18 @@ values.append(int(input("Enter a number: ")))
 
 ### Questions I have
 * How exactly does the hash key system work?
+
+
+13/02/2019
+--
+
+### What I did
+* Went through string problems
+
+### What I learned
+* How to read a file
+* fstrings
+* How to check a string for words
+
+### Questions I have
+* No questions, but I am looking forward to reading the book
