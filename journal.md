@@ -85,3 +85,13 @@ values.append(int(input("Enter a number: ")))
 
 ### Questions I have
 * No questions, but I am looking forward to reading the book
+
+14/02/2019
+--
+
+### What I did
+* Had second client meeting
+* Made success criteria
+
+### What I learned
+* How to use dictionaries
