@@ -1,11 +1,4 @@
-# Unit 3
-
-This Unit is comprised of two project:
-* [Web-Based Appliacation](#web-based)
-* Text application
-
-Web-Based
-===
+# Unit 3: Web-Based Application
 
 Contents
 ----
@@ -18,7 +11,13 @@ Contents
 Planning
 ---
 
-Success Criteria:
+### Definition of the Problem
+My client is Alex Nygaard. He is an international high school student in Japan, who has brought food from his home in Norway. However, he brought so much that he loses track of how much food he has and what he has eaten. He asked me to help him develop a secure system for him to keep track of this food by organizing it and giving him the ability to input when something has been eaten.
+
+### Rationale for Proposed Solution
+I am making an inventory application for Mr. Nygaard. 
+
+### Success Criteria
 1. There is a password login system
 2. A candy/drink can be added
 3. Candies and drinks are organized by:
@@ -44,3 +43,5 @@ Development
 
 Evaluation
 --
+
+
