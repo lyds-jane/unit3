@@ -33,6 +33,7 @@ I am making an inventory application for Mr. Nygaard.
 4. An item can be registered as "eaten"
 5. An item can be edited
 6. An item can by deleted
+7. An item can be searched for
 
 
 Overview
