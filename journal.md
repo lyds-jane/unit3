@@ -72,7 +72,7 @@ values.append(int(input("Enter a number: ")))
 * How exactly does the hash key system work?
 
 
-13/02/2019
+13/02/2020
 --
 
 ### What I did
@@ -86,7 +86,7 @@ values.append(int(input("Enter a number: ")))
 ### Questions I have
 * No questions, but I am looking forward to reading the book
 
-14/02/2019
+14/02/2020
 --
 
 ### What I did
@@ -95,3 +95,15 @@ values.append(int(input("Enter a number: ")))
 
 ### What I learned
 * How to use dictionaries
+
+17/02/2020
+---
+
+### What I did
+* Bitcoin bank account problem
+
+### What I learned
+* Intro to OOP
+
+### Questions I have
+* How can the customer input process be automated (with increasing values for the variable names?)
