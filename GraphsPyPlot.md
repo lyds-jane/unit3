@@ -21,6 +21,8 @@ def one():
         total += a
     print("The average is ", total/100)
     pyplot.plot(x,y)
+    pyplot.xlabel(x)
+    pyplot.ylabel(y)
     pyplot.show()
 
 
@@ -36,6 +38,8 @@ def three():
     y = [5*f + 4 for f in x]
     pyplot.plot(x, y)
 pyplot.show()
-```
 
-There were no syntax errors in the code. However, the graphing did not work. This is likely due to an error in the use of the graphing module.
+one()
+two()
+three()
+```
