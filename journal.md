@@ -107,3 +107,15 @@ values.append(int(input("Enter a number: ")))
 
 ### Questions I have
 * How can the customer input process be automated (with increasing values for the variable names?)
+
+24/02/2020
+---
+
+### What I did
+* Reviewed OOP reading
+
+### What I learned
+* OOP processes, how to use super and self when inheriting parent classes
+
+### To do
+* Create sketches of app
