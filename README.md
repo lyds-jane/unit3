@@ -23,7 +23,6 @@ I am making an inventory web application for Mr. Nygaard. It will allow him to o
 3. Candies and drinks are organized by:
     * Name of the brand
     * Weight
-    * Expiration date
     * Calories per 100g
     * Taste category
       * Sweet
