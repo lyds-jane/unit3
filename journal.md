@@ -119,3 +119,18 @@ values.append(int(input("Enter a number: ")))
 
 ### To do
 * Create sketches of app
+
+
+26/02/2020
+--
+
+### What I did
+* Wrote code for CAD to JPY converter
+* Designed UI for converter
+
+### What I learned
+* How to use QT designer
+* How to convert a UI file to python code
+
+### To do
+* Design UI for inventory app
