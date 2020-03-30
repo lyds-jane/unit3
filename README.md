@@ -36,6 +36,10 @@ I am making an inventory web application for Mr. Nygaard. It will allow him to o
 
 This success criteria was approved by Mr. Nygaard with no changes, see appendix ref. 1.1.c
 
+### Design Sketch
+![designsketch](images/designsketch.jpg)
+*Figure 1* - This is my initial design sketch for the inventory app. It shows the login screen and the main screen, as well as a popup box that would give more information about the candy and would allow for edits to be made.
+
 Overview
 ---
 
