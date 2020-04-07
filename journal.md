@@ -134,3 +134,17 @@ values.append(int(input("Enter a number: ")))
 
 ### To do
 * Design UI for inventory app
+
+
+04/04/2020
+--
+
+### What I did
+* Made my UI look better
+
+### What I learned
+* How to add photos to QT Desginer
+
+### To do
+* Fix the buttons
+* Show UI to client
