@@ -9,4 +9,4 @@ else:
     dogYears += (humanYears - 2) * 4
     dogYears += 21
 
-print(f'In dogs' years, that is {dogYears}')
+print(f'In dog years, that is {dogYears}')
