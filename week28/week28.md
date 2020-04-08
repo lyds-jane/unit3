@@ -25,6 +25,6 @@ Protocol is a defined structure or method to complete a specific task. Protocols
 
 The memory data register is where numbers are stored in the machine execution cycle. The register is indexed so that the values can be called, changed, deleted, and stored. Without this, the cycle would not be able to store any values. This would make any computing impossible, as each cycle needs to build on the last one based on what is in the register.
 
-** 5. Q5. A code for representing colours is used, where each colour is stored using 7 bits. State the number of different colours that can be represented. **
+** 5. Q5. A code for representing colours is used, where each colour is stored using 7 bits. State the number of different colours that can be represented.**
 
 128
