@@ -148,3 +148,17 @@ values.append(int(input("Enter a number: ")))
 ### To do
 * Fix the buttons
 * Show UI to client
+
+05/04/2020
+---
+
+### What I did
+* Watched Google Classroom videos on how to make progress on my project
+* Fixed some technical difficulties with PyCharm
+
+### What I learned
+* Never put a random piece of code into your computer just because someone sent it to you
+* How to add photos to a .py version of the UI
+
+### To do
+* Add edit option for user
