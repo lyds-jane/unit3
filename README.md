@@ -42,6 +42,10 @@ This success criteria was approved by Mr. Nygaard with no changes, see appendix 
 
 ### UI Design
 These screenshots show the final UI that I developped.
+![login](loginUI.png)
+*Figure 2* - This shows the UI for the login page.
+![main](mainUI.png)
+*Figure 3* - This shows the UI I created for the main inventory. It changed from the first phase, after realizing that the pop-ups would make the application less efficient.
 
 Overview
 ---
