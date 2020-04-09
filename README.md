@@ -40,6 +40,9 @@ This success criteria was approved by Mr. Nygaard with no changes, see appendix 
 ![designsketch](images/designsketch.jpg)
 *Figure 1* - This is my initial design sketch for the inventory app. It shows the login screen and the main screen, as well as a popup box that would give more information about the candy and would allow for edits to be made.
 
+### UI Design
+These screenshots show the final UI that I developped.
+
 Overview
 ---
 
