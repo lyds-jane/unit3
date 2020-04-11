@@ -1,11 +1,11 @@
 # Record of Tasks
 
 The record of tasks contains five steps:
-1. Planning
-2. Design
-3. Development
-4. Test
-5. Implementation
+A. Planning
+B. Design
+C. Development
+D. Test
+E. Implementation
 
 | Task No. | Planned Action | Expected Outcome | Time | Target Completion | Criterion |
 | - | - | - | - | - | - |
@@ -14,3 +14,4 @@ The record of tasks contains five steps:
 |3.| **Planning:** Meeting with client | Confirm success criteria | 10 min | The client approved the success criteria, and the project is ready to begin development | A |
 |4.| **Planning:** Sketch app design | Get an idea of the look of the app | 1 hour | The sketch was sucessfully completed, as seen in the README file's planning section. | A |
 |3.| **Design:** First draft of UI | See how the sketch looks in practice | 1 1/2 hour | Design was created, lots of room for improvement | B |
+|4.| **Design:** Improve UI | Improve the UI's look and usability | 1 hour | Photos added, password echo mode changed | C |
