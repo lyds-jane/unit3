@@ -169,7 +169,7 @@ values.append(int(input("Enter a number: ")))
 ### What I did
 * Updated repo
 * Added to Record of Tasks
-* Created bit to-do list to get back on track:
+* Created big to-do list to get back on track:
 
 ![to-do](images/todo.png)
 
