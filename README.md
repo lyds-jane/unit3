@@ -52,7 +52,7 @@ Overview
 *Figre x* - This shows the test plan for the application. An updated version of this can be found in [Evaluation](#evaluation)
 
 ### Design Sketch
-![designsketch](images/designsketch.jpg)
+![designsketch](images/sketch.jpg)
 *Figure x* - This is my initial design sketch for the inventory app. It shows the login screen and the main screen, as well as a popup box that would give more information about the candy and would allow for edits to be made.
 
 ### UI Design
@@ -78,9 +78,9 @@ Development
 ### Object Oriented Programming (OOP)
 The following image shows the basic layout of an OOP program:
 
-![oop](oop.png)
+![oop](images/oop.png)
 
-*Figure x* - This image shows the layout of an OOP program. OOP splits a code up into classes that have properties (variables) and methods (functinons). Multiple objects can be assigned to a class, allowing for DRY code. The four basics of OOP are encapsulation, abstraction, inheritance, and polymorphism.([1](#bibliography))
+*Figure x* - This image shows the layout of an OOP program. OOP splits a code up into classes that have properties (variables) and methods (functinons). Multiple objects can be assigned to a class, allowing for DRY code. The four basics of OOP are encapsulation, abstraction, inheritance, and polymorphism. ([1](#bibliography))
 
 ### Converting UI Files
 To use UI files in a program, they must first be converted to code. This is done with the pyQt5 package, which can be installed from pip3.
