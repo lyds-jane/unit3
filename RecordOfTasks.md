@@ -13,4 +13,4 @@ The record of tasks contains five steps:
 |2.| **Development:** Secure login system | Learn how to create a secure login system | 30 min | Learned how to use salt and hash to encrypt a password. | C |
 |3.| **Planning:** Meeting with client | Confirm success criteria | 10 min | The client approved the success criteria, and the project is ready to begin development | A |
 |4.| **Planning:** Sketch app design | Get an idea of the look of the app | 1 hour | The sketch was sucessfully completed, as seen in the README file's planning section. | A |
-|3.| **Planning:** Meeting with client | Confirm app design | 10 min |  | A |
+|3.| **Design:** First draft of UI | See how the sketch looks in practice | 1 1/2 hour | Design was created, lots of room for improvement | B |
