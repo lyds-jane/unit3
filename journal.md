@@ -161,4 +161,17 @@ values.append(int(input("Enter a number: ")))
 * How to add photos to a .py version of the UI
 
 ### To do
-* Add edit option for user
+* Add edit options for user
+
+11/04/2020
+--
+
+### What I did
+* Updated repo
+* Added to Record of Tasks
+
+### To do
+* Fix bugs (I updated the UI filed and now it doesn't run properly)
+* Everything on this list:
+
+![to-do](images/todo.png)
