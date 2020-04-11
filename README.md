@@ -15,7 +15,7 @@ Planning
 My client is Alex Nygaard. He is an international high school student in Japan, who has brought food from his home in Norway. However, he brought so much that he loses track of how much food he has and what he has eaten. He asked me in an email (see ref. 1.1.a) to help him develop a secure system for him to keep track of this food by organizing it and giving him the ability to input when something has been eaten.
 
 ### Rationale for Proposed Solution
-I am making an inventory web application for Mr. Nygaard. It will allow him to organize his snacks, search for his snacks, and register his snacks as eaten. I will use the python language to write the code, and QT designer to design the visual layout of the application. These are both very easy to use, and will make the process run smoothly. Mr. Nygaard approved this solution, as seen in appendix ref. 1.1.b.
+I am making an inventory web application for Mr. Nygaard. It will allow him to organize his snacks, search for his snacks, and register his snacks as eaten. I will use the python language to write the code, and QT designer to design the visual layout of the application. These are both very easy to use, and will make the process run smoothly. This will make for a very simple application that lets Mr. Nygaard complete his desired tasks without needing to naviage a complicated application. Mr. Nygaard approved this solution, as seen in appendix ref. 1.1.b.
 
 ### Success Criteria
 1. There is a password login system
@@ -41,8 +41,8 @@ Overview
 ---
 
 ### System Diagram
-
-
+![System Diagram](images/sys_diagram.png)
+*Figure x* - This shows the system diagram and archetecture of the web application.
 
 ### Design Sketch
 ![designsketch](images/designsketch.jpg)
