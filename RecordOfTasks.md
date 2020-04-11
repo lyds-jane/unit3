@@ -15,3 +15,5 @@ E. Implementation
 |4.| **Planning:** Sketch app design | Get an idea of the look of the app | 1 hour | The sketch was sucessfully completed, as seen in the README file's planning section. | A |
 |5.| **Design:** First draft of UI | See how the sketch looks in practice | 1 1/2 hour | Design was created, lots of room for improvement | B |
 |6.| **Design:** Improve UI | Improve the UI's look and usability | 1 hour | Photos added, password echo mode changed | C |
+|7.| **Planning:** Create system diagram | Show app's architecture | 30 min | Added to repo | A |
+|8.| **Planning:** Create test plan | Create plan for app's final test | 30 min | Added to repo | A |
