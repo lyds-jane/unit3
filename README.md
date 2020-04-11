@@ -6,6 +6,7 @@ Contents
   2. [Solution Overview](#overview)
   3. [Development](#development)
   4. [Evaluation](#evaluation)
+  5. [Bibliography](#bibliography)
   
   
 Planning
@@ -42,10 +43,12 @@ Overview
 
 ### System Diagram
 ![System Diagram](images/sys_diagram.png)
+
 *Figure x* - This shows the system diagram and archetecture of the web application.
 
 ### Test Plan
-![Test Plan](test_plan.png)
+![Test Plan](images/test_plan.png)
+
 *Figre x* - This shows the test plan for the application. An updated version of this can be found in [Evaluation](#evaluation)
 
 ### Design Sketch
@@ -67,7 +70,33 @@ These screenshots show the final UI that I developped.
 Development
 ---
 
+### Skills developped:
+* Object Oriented Programming
+* Converting UI files to python programs
+* Button linking
+
+### Object Oriented Programming (OOP)
+The following image shows the basic layout of an OOP program:
+
+![oop](oop.png)
+
+*Figure x* - This image shows the layout of an OOP program. OOP splits a code up into classes that have properties (variables) and methods (functinons). Multiple objects can be assigned to a class, allowing for DRY code. The four basics of OOP are encapsulation, abstraction, inheritance, and polymorphism.([1](#bibliography))
+
+### Converting UI Files
+To use UI files in a program, they must first be converted to code. This is done with the pyQt5 package, which can be installed from pip3.
+
+Once this is installed, the conversion is very easy: `pyuic5 filename.ui -o filename.py`
+
+I also learned that it is important to make edits to the UI file itself, and not in the code, as that is not saved. Once an edit is made, simply re-convert the UI to update the code.
+
+### Button Linking
+Buttons are key parts of most UIs. In order for them to work, there is a simple command that links a button to a program: `self.buttonName.clicked.connect(self.programName)`
+
+
 Evaluation
 --
 
 
+Bibliography
+--
+1. https://www.youtube.com/watch?v=xoL6WvCARJY
