@@ -169,9 +169,11 @@ values.append(int(input("Enter a number: ")))
 ### What I did
 * Updated repo
 * Added to Record of Tasks
+* Created bit to-do list to get back on track:
+
+![to-do](images/todo.png)
 
 ### To do
 * Fix bugs (I updated the UI filed and now it doesn't run properly)
-* Everything on this list:
+* Everything on the list above
 
-![to-do](images/todo.png)
