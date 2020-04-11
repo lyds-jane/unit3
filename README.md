@@ -44,15 +44,23 @@ Overview
 ![System Diagram](images/sys_diagram.png)
 *Figure x* - This shows the system diagram and archetecture of the web application.
 
+### Test Plan
+![Test Plan](test_plan.png)
+*Figre x* - This shows the test plan for the application. An updated version of this can be found in [Evaluation](#evaluation)
+
 ### Design Sketch
 ![designsketch](images/designsketch.jpg)
 *Figure x* - This is my initial design sketch for the inventory app. It shows the login screen and the main screen, as well as a popup box that would give more information about the candy and would allow for edits to be made.
 
 ### UI Design
 These screenshots show the final UI that I developped.
+
 ![login](images/loginUI.png)
+
 *Figure x* - This shows the UI for the login page.
+
 ![main](images/mainUI.png)
+
 *Figure x* - This shows the UI I created for the main inventory. It changed from the first phase, after realizing that the pop-ups would make the application less efficient.
 
 
