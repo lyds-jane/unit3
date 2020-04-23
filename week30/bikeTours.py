@@ -8,7 +8,6 @@ class Bicycle():
         self.tire = 29
         self.num_bicycles += 1
         self.post_initialize()
-        inventory.append(self)
 
 
     def post_initialize(self):
@@ -29,6 +28,6 @@ class MountainBike(Bicycle):
 
 
 inventory = []
-
-speeedyboi = Bicycle()
+inventory.append(Bicycle)
+inventory.append(MountainBike)
 print(inventory)
