@@ -25,15 +25,10 @@ I am making an inventory web application for Mr. Nygaard. It will allow him to o
     * Name of the brand
     * Weight
     * Calories per 100g
-    * Taste category
-      * Sweet
-      * Sour
-      * Salt
+    * Taste
     * Quantity (number of packages)
-4. An item can be registered as "eaten"
-5. An item can be edited
-6. An item can by deleted
-7. An item can be searched for
+4. An item can be edited
+5. An item can by deleted
 
 This success criteria was approved by Mr. Nygaard with no changes, see appendix ref. 1.1.c
 
@@ -72,8 +67,11 @@ Development
 
 ### Skills developped:
 * Object Oriented Programming
+* Designing UI in QtDesigner
 * Converting UI files to python programs
 * Button linking
+* Hashing passwords
+* Adding elements to a table
 
 ### Object Oriented Programming (OOP)
 The following image shows the basic layout of an OOP program:
@@ -81,6 +79,9 @@ The following image shows the basic layout of an OOP program:
 ![oop](images/oop.png)
 
 *Figure x* - This image shows the layout of an OOP program. OOP splits a code up into classes that have properties (variables) and methods (functinons). Multiple objects can be assigned to a class, allowing for DRY code. The four basics of OOP are encapsulation, abstraction, inheritance, and polymorphism. ([1](#bibliography))
+
+### Designing UI in QtDesigner
+QtDesigner is a very useful tool for designing UI. It allows you to design pop-up windows and main window. There are many tools within the application. An example is the 
 
 ### Converting UI Files
 To use UI files in a program, they must first be converted to code. This is done with the pyQt5 package, which can be installed from pip3.
