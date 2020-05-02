@@ -68,15 +68,15 @@ These screenshots show the final UI that I developped.
 ### Flow Charts
 Below are the flowcharts for the register, login, and load data functions of the application.
 
-![register](images/register_flow)
+![register](images/register_flow.JPG)
 
 *Figure x* - This shows the flowchart for the register class.
 
-![login](images/login_flow)
+![login](images/login_flow.JPG)
 
 *Figure x* - This shows the flowchart for the login window. It is important to note that this did not work in the final application, due to an error called to the verify_password method.
 
-![load](images/load_flow)
+![load](images/load_flow.JPG)
 
 *Figure x* - This shows the flowchart for the load data method, which takes data from database.csv and puts it into the table widget of the UI.
 
