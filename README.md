@@ -160,7 +160,7 @@ Here is a link to the evaluation video: https://drive.google.com/file/d/1BTGGkyG
 
 As demonstrated in the video, here is the completed test plan:
 
-![tested](images/complete_plan.png)
+![tested](images/completed_plan.png)
 
 Bibliography
 --
