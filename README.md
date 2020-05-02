@@ -112,7 +112,7 @@ I also learned that it is important to make edits to the UI file itself, and not
 Buttons are key parts of most UIs. In order for them to work, there is a simple command that links a button to a program: `self.buttonName.clicked.connect(self.programName)`
 
 ### Hashing Passwords
-Hashing passwords is a way of storing encrypted passwords securely so that others can't find the original password. For this project, we used Allesandro Molina's hashing passwords code [2], found below:
+Hashing passwords is a way of storing encrypted passwords securely so that others can't find the original password. For this project, we used Allesandro Molina's hashing passwords code ([2](#biliography)), found below:
 
 ```.py
 import hashlib, binascii, os
