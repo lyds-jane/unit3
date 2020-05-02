@@ -39,46 +39,49 @@ Overview
 ### System Diagram
 ![System Diagram](images/sys_diagram.png)
 
-*Figure x* - This shows the system diagram and archetecture of the web application.
+*Figure 1* - This shows the system diagram and archetecture of the web application.
 
 ### Test Plan
+
 ![Test Plan](images/testplan.png)
 
-*Figre x* - This shows the test plan for the application. An updated version of this can be found in [Evaluation](#evaluation)
+*Figre 2* - This shows the test plan for the application. An updated version of this can be found in [Evaluation](#evaluation)
 
 ### Design Sketch
+
 ![designsketch](images/sketch.jpg)
-*Figure x* - This is my initial design sketch for the inventory app. It shows the login screen and the main screen, as well as a popup box that would give more information about the candy and would allow for edits to be made.
+
+*Figure 3* - This is my initial design sketch for the inventory app. It shows the login screen and the main screen, as well as a popup box that would give more information about the candy and would allow for edits to be made.
 
 ### UI Design
 These screenshots show the final UI that I developped.
 
 ![login](images/login.png)
 
-*Figure x* - This shows the UI for the login page.
+*Figure 4* - This shows the UI for the login page.
 
 ![register](images/register.png)
 
-*Figure x* - This shows the UI for the register window.
+*Figure 5* - This shows the UI for the register window.
 
 ![main](images/table.png)
 
-*Figure x* - This shows the UI I created for the main inventory, which changed a lot from the initial planning stages.
+*Figure 6* - This shows the UI I created for the main inventory, which changed a lot from the initial planning stages.
 
 ### Flow Charts
 Below are the flowcharts for the register, login, and load data functions of the application.
 
 ![register](images/register_flow.JPG)
 
-*Figure x* - This shows the flowchart for the register class.
+*Figure 7* - This shows the flowchart for the register class.
 
 ![login](images/login_flow.JPG)
 
-*Figure x* - This shows the flowchart for the login window. It is important to note that this did not work in the final application, due to an error called to the verify_password method.
+*Figure 8* - This shows the flowchart for the login window. It is important to note that this did not work in the final application, due to an error called to the verify_password method.
 
 ![load](images/load_flow.JPG)
 
-*Figure x* - This shows the flowchart for the load data method, which takes data from database.csv and puts it into the table widget of the UI.
+*Figure 9* - This shows the flowchart for the load data method, which takes data from database.csv and puts it into the table widget of the UI.
 
 
 Development
@@ -153,7 +156,11 @@ with open("database.csv", "w") as db:
 
 Evaluation
 --
+Here is a link to the evaluation video: https://drive.google.com/file/d/1BTGGkyGlyLFfsJ_fCYenXLJtMqhsrunR/view?usp=sharing
 
+As demonstrated in the video, here is the completed test plan:
+
+![tested](images/complete_plan.png)
 
 Bibliography
 --
